@@ -27,8 +27,8 @@ End the program.
 
 ## Program:
 ```py
-Developed By   : thamaraiselvan v
-Register Number: 212221230115
+Developed By   : Jerowin Geo J A
+Register Number: 212223100016
 ```
 ### 1. Smoothing Filters
 
@@ -150,8 +150,12 @@ plt.show()
 
 ```
 
+
 ## OUTPUT:
+
+
 ### 1. Smoothing Filters
+
 ## i) Using Averaging Filter
 
 
