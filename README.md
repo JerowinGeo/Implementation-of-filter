@@ -1,6 +1,5 @@
 # Implementation-of-filter
 
-### DATE:
 
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
